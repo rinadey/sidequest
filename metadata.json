@@ -1,0 +1,6 @@
+{
+  "name": "Jeddah Side Quest",
+  "description": "An interactive real-world adventure platform to discover Jeddah through personalized quests, 3D adventure hub, and AI photo-verified real-world challenges.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
